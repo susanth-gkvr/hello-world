@@ -9,6 +9,7 @@
  for(i=1;i<=n;i++)
  {
  printf("%d ",a);
+ printf("GSUSANTH:: Updating here");
  c=a+b;
  a=b;
  b=c;
